@@ -4,13 +4,15 @@
       Motorsports (F1, GT3, Rally)
       Engineering
 - 🌱 I’m currently learning ...
-      Python.
+  HTML
+  CSS
+  Javascript
+  Python
 - 💞️ I’m looking to collaborate on ...
       I'm not sure yet.
 - 📫 How to reach me ...
       Email: lincolnp.contact@gmail.com
-      Instagram: @lincoln.r.powell
-      Twitter: @lincolnrpowell
+      Instagram: @lincoln.p0well
 
 <!---
 lincolnrpowell/lincolnrpowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
